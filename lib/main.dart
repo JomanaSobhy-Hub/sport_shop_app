@@ -1,4 +1,5 @@
 import 'package:first_project/core/apis/widget/pagecontroller.dart';
+import 'package:first_project/features/authentication/loginscreen.dart';
 import 'package:first_project/features/home/homepage.dart';
 import 'package:first_project/features/profile/profile.dart';
 import 'package:first_project/features/setting/settings.dart';
@@ -36,7 +37,7 @@ class MyApp extends StatelessWidget {
         // tested with just a hot reload.
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
       ),
-      home: MainScreenController(),
+      home: Loginscreen(),
     );
   }
 }
