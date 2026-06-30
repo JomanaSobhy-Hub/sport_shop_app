@@ -1,17 +1,66 @@
-# first_project
+# 🛒 Sport Shop App
 
-A new Flutter project.
+A Flutter mobile application for an online sports shopping experience.  
+The app provides a modern UI for browsing sports products, managing user accounts, and viewing profile/settings pages.
 
-## Getting Started
+## 📱 Screens
 
-This project is a starting point for a Flutter application.
+### 🔐 Authentication
+- Login Screen
+- Sign Up Screen
+- Form fields with validation UI
+- Navigation between Login & Sign Up
 
-A few resources to get you started if this is your first Flutter project:
+### 🏠 Home Screen
+- Product categories
+- Search products
+- Popular items section
+- Product cards
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+### 🛍 Shop Screen
+- Display all products
+- Product list view
+- Add to cart button
+- Product details (name, description, price)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 👤 Profile Screen
+- User profile information
+- Edit profile button
+- Orders
+- Wishlist
+- Reviews
+- Account options
+
+### ⚙️ Settings Screen
+- Dark mode switch
+- Notifications switch
+- Language option
+- Account settings
+- About section
+
+---
+
+## ✨ Features
+
+- Clean and modern UI
+- Responsive Flutter layout
+- Reusable custom widgets
+- Navigation between screens
+- Product grid & list layouts
+- Custom buttons and text fields
+- Interactive switches and checkboxes
+
+---
+
+## 🛠 Technologies Used
+
+- Flutter
+- Dart
+- Material Design
+- Stateful Widgets
+- Custom Widgets
+- Navigator for screen transitions
+
+---
+
+## 📂 Project Structure
